@@ -30,7 +30,7 @@ The **Online Auction Platform** is a web application designed to enable users to
 ### **2. Clone the Repository:**
    - Clone the repository to your local machine:
      ```bash
-     git clone https://github.com/your-usernamebhrpardeep/online-auction-platform.git
+     git clone https://github.com/pk7310241/pk7310241.git
      ```
 
 ### **3. Navigate to Project Folder:**
